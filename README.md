@@ -9,6 +9,15 @@ Libft is the first project of the 42cursus. The aim is to recode several functio
 
 This project allows students to work with the basics of the language. Pointers, memory allocation, operations with data structures, as well as the creation of header and Makefile files.
 
+##Badge
+
+![image](https://user-images.githubusercontent.com/85964972/132143244-c89cd42b-ec35-4bb0-a348-3370efc89db2.png)
+
+##Skills
+* Algorithms & AI
+* Imperative programming
+* Rigor
+
 ## Mandatory part
 **Libc functions**
 
